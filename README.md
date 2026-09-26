@@ -22,12 +22,12 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | Image | Project | Description | Stars | Status |
 | --- | --- | --- | ---: | :---: |
 | <img src="https://raw.githubusercontent.com/penso/arbor/main/assets/screenshot.png" alt="" height="64"> | [Arbor](https://github.com/penso/arbor) | Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs. | 829 | 🟢 |
-|  | [based](https://github.com/pavi2410/based) | A native database client built for teams and AI agents — connections and queries live in your repo, git-friendly and version-controlled. | 64 | 🟢 |
+|  | [based](https://github.com/pavi2410/based) | A native database client built for teams and AI agents — connections and queries live in your repo, git-friendly and version-controlled. | 65 | 🟢 |
 | <img src="https://raw.githubusercontent.com/packetThrower/Baudrun/main/build/appicon.png" alt="" height="64"> | [Baudrun](https://github.com/packetThrower/Baudrun) | A cross-platform serial terminal for network engineers, with saved profiles, multi-window, auto-reconnect, and XMODEM/YMODEM file transfer. | 29 | 🟢 |
-| <img src="https://raw.githubusercontent.com/duxweb/codux/main/docs/images/icon.png" alt="" height="64"> | [Codux](https://github.com/duxweb/codux) | A native AI coding terminal built with Rust and GPUI, spanning desktop, mobile, and headless hosts. | 460 | 🟡 |
-| <img src="https://raw.githubusercontent.com/0xErwin1/dbflux/main/resources/dbflux.png" alt="" height="64"> | [DBFlux](https://github.com/0xErwin1/dbflux) | A keyboard-first, multi-engine database client for SQLite, PostgreSQL, MySQL, MongoDB, Redis, and DynamoDB with integrated MCP governance for AI agents. | 206 | 🟢 |
+| <img src="https://raw.githubusercontent.com/duxweb/codux/main/docs/images/icon.png" alt="" height="64"> | [Codux](https://github.com/duxweb/codux) | A native AI coding terminal built with Rust and GPUI, spanning desktop, mobile, and headless hosts. | 461 | 🟡 |
+| <img src="https://raw.githubusercontent.com/0xErwin1/dbflux/main/resources/dbflux.png" alt="" height="64"> | [DBFlux](https://github.com/0xErwin1/dbflux) | A keyboard-first, multi-engine database client for SQLite, PostgreSQL, MySQL, MongoDB, Redis, and DynamoDB with integrated MCP governance for AI agents. | 205 | 🟢 |
 | <img src="https://raw.githubusercontent.com/fulgur-app/Fulgur/main/assets/icon_square.webp" alt="" height="64"> | [Fulgur](https://github.com/fulgur-app/Fulgur) | A lightning-fast, multiplatform, fully themed text & code editor with secured file sync between devices. | 48 | 🟢 |
-| <img src="https://raw.githubusercontent.com/Auto-Explore/GitComet/main/assets/gitcomet_logo.svg" alt="" height="64"> | [GitComet](https://github.com/Auto-Explore/GitComet) | GitComet is fastest open source user interface for GIT workflows. | 873 | 🟢 |
+| <img src="https://raw.githubusercontent.com/Auto-Explore/GitComet/main/assets/gitcomet_logo.svg" alt="" height="64"> | [GitComet](https://github.com/Auto-Explore/GitComet) | GitComet is fastest open source user interface for GIT workflows. | 874 | 🟢 |
 | <img src="https://github.com/polachok/helix-gpui/assets/94035/0d5dbed5-77d9-4da0-88e0-6a0632cb6070" alt="" height="64"> | [helix-gpui](https://github.com/polachok/helix-gpui) | Helix gpui frontend. | 540 | ⚪ |
 | <img src="https://github.com/user-attachments/assets/7d7284e1-3f2f-4bae-ae6b-bb51eea9e06b" alt="" height="64"> | [hunk](https://github.com/smolcars/hunk) | A cross platform and super fast diff viewer and Codex orchestrator. | 74 | 🟢 |
 | <img src="https://raw.githubusercontent.com/ellie/lgtm/main/screenies/lgtm.jpeg" alt="" height="64"> | [lgtm](https://github.com/ellie/lgtm) | A fast, native code review app built with Rust and GPUI. | 103 | 🟡 |
@@ -57,17 +57,17 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | <img src="https://raw.githubusercontent.com/noh-rs/nohrs/develop/assets/doc/icon.png" alt="" height="64"> | [nohrs](https://github.com/noh-rs/nohrs) | A fast, flexible, and extensible file explorer for macOS, built with Rust and gpui as a modern alternative to Finder. | 154 | 🟢 |
 | <img src="https://raw.githubusercontent.com/niklabh/oxide/main/screens/oxide.png" alt="" height="64"> | [Oxide](https://github.com/niklabh/oxide) | A binary-first browser that runs WebAssembly modules instead of HTML/CSS/JS, built with GPUI. | 35 | 🟢 |
 | <img src="https://github.com/user-attachments/assets/457064ea-9f84-4099-b20c-8be5f2dfe9d6" alt="" height="64"> | [reminder](https://github.com/LeadcodeDev/remindr) | An open-source and self-hostable alternative to Notion. | 27 | ⚪ |
-| <img src="https://raw.githubusercontent.com/wzzc-dev/vellum/master/docs/vellum-screenshot.png" alt="" height="64"> | [Vellum](https://github.com/wzzc-dev/vellum) | A WYSIWYG desktop Markdown editor built with Rust and GPUI. | 16 | ⚪ |
-| <img src="https://raw.githubusercontent.com/packetThrower/zorite/main/resources/icons/icon.png" alt="" height="64"> | [Zorite](https://github.com/packetThrower/zorite) | A Markdown daily journal with WYSIWYG and raw-Markdown editing — wiki-linked pages, embedded PDFs, Mermaid diagrams, whiteboards, and LaTeX math, on macOS, Windows, and Linux. | 51 | 🟢 |
+| <img src="https://raw.githubusercontent.com/wzzc-dev/vellum/master/docs/vellum-screenshot.png" alt="" height="64"> | [Vellum](https://github.com/wzzc-dev/vellum) | A WYSIWYG desktop Markdown editor built with Rust and GPUI. | 17 | ⚪ |
+| <img src="https://raw.githubusercontent.com/packetThrower/zorite/main/resources/icons/icon.png" alt="" height="64"> | [Zorite](https://github.com/packetThrower/zorite) | A Markdown daily journal with WYSIWYG and raw-Markdown editing — wiki-linked pages, embedded PDFs, Mermaid diagrams, whiteboards, and LaTeX math, on macOS, Windows, and Linux. | 53 | 🟢 |
 
 ### Media
 
 | Image | Project | Description | Stars | Status |
 | --- | --- | --- | ---: | :---: |
-| <img src="https://raw.githubusercontent.com/futureboard/Futureboard/main/packages/assets/banner.png" alt="" height="64"> | [Futureboard Studio](https://github.com/futureboard/Futureboard) | An open-source digital audio workstation with Native GPUI, React WebUI, Rust DSP, and native plugin hosting. | 86 | 🟢 |
-| <img src="https://raw.githubusercontent.com/hummingbird-player/hummingbird/master/docs/screenshot.png" alt="" height="64"> | [hummingbird](https://github.com/hummingbird-player/hummingbird) | Modern music player written in Rust using gpui with a focus on design and performance. | 611 | 🟢 |
+| <img src="https://raw.githubusercontent.com/futureboard/Futureboard/main/packages/assets/banner.png" alt="" height="64"> | [Futureboard Studio](https://github.com/futureboard/Futureboard) | An open-source digital audio workstation with Native GPUI, React WebUI, Rust DSP, and native plugin hosting. | 87 | 🟢 |
+| <img src="https://raw.githubusercontent.com/hummingbird-player/hummingbird/master/docs/screenshot.png" alt="" height="64"> | [hummingbird](https://github.com/hummingbird-player/hummingbird) | Modern music player written in Rust using gpui with a focus on design and performance. | 612 | 🟢 |
 | <img src="https://raw.githubusercontent.com/monocurl/monocurl/main/.github/assets/monocurl-editor.webp" alt="" height="64"> | [Monocurl](https://github.com/monocurl/monocurl) | An environment for programmatically animating images, videos, and slideshows in the Monocurl language. | 317 | 🟢 |
-| <img src="https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/icon.png" alt="" height="64"> | [Pawse](https://github.com/popovpsk/pawse) | A cross-platform music player with bit-perfect/exclusive output and a customizable UI. | 17 | 🟢 |
+| <img src="https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/icon.png" alt="" height="64"> | [Pawse](https://github.com/popovpsk/pawse) | A cross-platform music player with bit-perfect/exclusive output and a customizable UI. | 18 | 🟢 |
 | <img src="https://raw.githubusercontent.com/ssut/sukusho/main/docs/screenshot.webp" alt="" height="64"> | [sukusho](https://github.com/ssut/sukusho) | A powerful screenshot manager for Windows. | 14 | ⚪ |
 | <img src="https://raw.githubusercontent.com/vleerapp/vleer/main/assets/images/icon.png" alt="" height="64"> | [vleer](https://github.com/vleerapp/vleer) | Music, but without the subscription. Built on top of the OpenMusic API for a new streaming standard. | 211 | 🟢 |
 
@@ -95,32 +95,32 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 
 | Image | Project | Description | Stars | Status |
 | --- | --- | --- | ---: | :---: |
-| <img src="https://raw.githubusercontent.com/Augani/adabraka-ui/main/docs/assets/images/music-player.png" alt="" height="64"> | [adabraka-ui](https://github.com/Augani/adabraka-ui) | UI components for building beautiful desktop applications. | 470 | ⚪ |
+| <img src="https://raw.githubusercontent.com/Augani/adabraka-ui/main/docs/assets/images/music-player.png" alt="" height="64"> | [adabraka-ui](https://github.com/Augani/adabraka-ui) | UI components for building beautiful desktop applications. | 472 | ⚪ |
 | <img src="https://raw.githubusercontent.com/DevPlus31/declarative-gpui/main/examples/screenshots/card.png" alt="" height="64"> | [declarative-gpui](https://github.com/DevPlus31/declarative-gpui) | A declarative ui! macro with Tailwind-style tokens, real Rust control flow, and zero runtime overhead. | 12 | 🟢 |
-| <img src="https://github.com/user-attachments/assets/99063140-6b80-4a3d-913e-2b14f424cfb7" alt="" height="64"> | [ferrum-flow](https://github.com/tu6ge/ferrum-flow) | A high-performance, extensible node-based editor framework. | 83 | ⚪ |
+| <img src="https://github.com/user-attachments/assets/99063140-6b80-4a3d-913e-2b14f424cfb7" alt="" height="64"> | [ferrum-flow](https://github.com/tu6ge/ferrum-flow) | A high-performance, extensible node-based editor framework. | 85 | ⚪ |
 | <img src="https://github.com/user-attachments/assets/e1ecb9c3-2dd3-431e-bd97-5a819c30e551" alt="" height="64"> | [gpui-component](https://github.com/longbridge/gpui-component) | UI components for building fantastic desktop applications using gpui. | 14.8k 🔥 | 🟢 |
 |  | [gpui-d3rs](https://github.com/pierreaubert/sotf/tree/master/gpui-d3rs) | a low level plotting library 100% in rust with the familiar [d3js](https://d3js.org/) components. | 58 | ⚪ |
 | <img src="https://raw.githubusercontent.com/pacifio/gpui-flow/main/media/mindmap.png" alt="" height="64"> | [gpui-flow](https://github.com/pacifio/gpui-flow) | Visual node editor react flow for GPUI. | 37 | ⚪ |
-|  | [gpui-form](https://github.com/stayhydated/gpui-form) | A struct derive macro for deriving gpui-component... components on fields. | 25 | 🟢 |
+|  | [gpui-form](https://github.com/stayhydated/gpui-form) | A struct derive macro for deriving gpui-component... components on fields. | 24 | 🟢 |
 |  | [gpui-hooks](https://github.com/leset0ng/gpui-hooks) | React-style hooks for GPUI framework. | 17 | ⚪ |
 |  | [gpui-nav](https://github.com/benodiwal/gpui-nav) | Easy navigation library for GPUI applications. | 27 | ⚪ |
-|  | [gpui-pdf](https://github.com/packetThrower/zorite/tree/main/crates/gpui-pdf) | Page-virtualized PDF viewing built on the pure-Rust hayro rasterizer — zoom, navigation, full-text search, and bounded memory, with no native dependencies. | 51 | 🟢 |
+|  | [gpui-pdf](https://github.com/packetThrower/zorite/tree/main/crates/gpui-pdf) | Page-virtualized PDF viewing built on the pure-Rust hayro rasterizer — zoom, navigation, full-text search, and bounded memory, with no native dependencies. | 53 | 🟢 |
 |  | [gpui-px](https://github.com/pierreaubert/sotf/tree/master/gpui-px) | a high level plotting library 100% in rust inspired by [plotly express](https://plotly.com/python/plotly-express/) and using d3rs. | 58 | ⚪ |
 |  | [gpui-router](https://github.com/justjavac/gpui-router) | A router for GPUI App. | 99 | 🟢 |
 |  | [gpui-storybook](https://github.com/stayhydated/gpui-storybook) | Storybook-like library for GPUI applications. | 9 | 🟢 |
 |  | [gpui-symbols](https://github.com/AprilNEA/gpui-symbols) | Native SF Symbols for GPUI with type-safe Icon component. | 18 | ⚪ |
 |  | [gpui-tea](https://github.com/inkwadra/gpui-tea) | Runtime primitives for building Elm-style GPUI applications. | 8 | 🟢 |
 | <img src="https://raw.githubusercontent.com/cijiugechu/gpui-video-player/main/assets/screenshot.png" alt="" height="64"> | [gpui-video-player](https://github.com/cijiugechu/gpui-video-player) | Video player for gpui. | 91 | 🟢 |
-|  | [gpui-whiteboard](https://github.com/packetThrower/zorite/tree/main/crates/gpui-whiteboard) | An infinite, pan-and-zoom whiteboard canvas with shapes, arrows, freehand ink, text, and images, plus a built-in toolbar, templates, and undo/redo. | 51 | 🟢 |
+|  | [gpui-whiteboard](https://github.com/packetThrower/zorite/tree/main/crates/gpui-whiteboard) | An infinite, pan-and-zoom whiteboard canvas with shapes, arrows, freehand ink, text, and images, plus a built-in toolbar, templates, and undo/redo. | 53 | 🟢 |
 |  | [guise](https://github.com/wess/guise) | A Mantine-inspired component library with theming, sizing tokens, and a large set of ready-made components. | 124 | 🟢 |
 | <img src="https://github.com/user-attachments/assets/58104fbd-35e7-40a1-be8d-ad18945acacb" alt="" height="64"> | [plotters-gpui](https://github.com/JakkuSakura/plotters-gpui) | gpui backend for plotters. | 53 | ⚪ |
-|  | [ratex-gpui](https://github.com/packetThrower/zorite/tree/main/crates/ratex-gpui) | A LaTeX math renderer and a structural, MathQuill-style formula editor for GPUI, built on the RaTeX engine. | 51 | 🟢 |
+|  | [ratex-gpui](https://github.com/packetThrower/zorite/tree/main/crates/ratex-gpui) | A LaTeX math renderer and a structural, MathQuill-style formula editor for GPUI, built on the RaTeX engine. | 53 | 🟢 |
 
 ## Tooling
 
 | Image | Project | Description | Stars | Status |
 | --- | --- | --- | ---: | :---: |
-|  | [create-gpui-app](https://github.com/zed-industries/create-gpui-app) | Create a new gpui app in a single command. | 382 | ⚪ |
+|  | [create-gpui-app](https://github.com/zed-industries/create-gpui-app) | Create a new gpui app in a single command. | 383 | ⚪ |
 |  | [Crepuscularity](https://github.com/tschk/crepuscularity) | One UI codebase for desktop, web, mobile, terminal, browser extensions, and embedded devices. Write React JSX or our lightweight DSL, get GPUI, Ratatui, SwiftUI, LVGL, and more. Batteries included. | 43 | 🟢 |
 | <img src="https://github.com/user-attachments/assets/e36bfc3b-f5e8-437e-a50a-967ee254a0eb" alt="" height="64"> | [Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) | The next-generation game engine that you deserve implemented in rust on top of GPUI. | 390 | 🟢 |
 |  | [React Native GPUI](https://github.com/nucleus-os/nucleus) | An out-of-tree platform for React Native desktop applications, implementing RN Fabric architecture with Rust and GPUI. | 53 | 🟢 |
